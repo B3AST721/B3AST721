@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @B3AST721
-- 👀 I’m a self-taught web developer
+- 👀 I’m a web developer
 - 🌱 I’m currently learning front end devolpment
 - 💞️ I’m looking to gain experience
 - 📫 Reach me at jaheelwarr@gmail.com
